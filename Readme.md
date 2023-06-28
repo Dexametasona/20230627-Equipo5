@@ -1,7 +1,7 @@
 #Alexander-Paula Cuadra-Ana Machado-Janeth Mora-Juan Vivas
 
-#**ALEXANDER**
+# **ALEXANDER**
 
-##PERU
+## PERU
 
 PERU :musical_score:
