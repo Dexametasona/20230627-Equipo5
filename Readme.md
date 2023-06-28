@@ -1,7 +1,7 @@
 #Alexander-Paula Cuadra-Ana Machado-Janeth Mora-Juan Vivas
 
-#**JANETHMORA**
+# **JANETHMORA**
 
-##MEXICO
+# #MEXICO
 
 MEXICO:speak_no_evil:
